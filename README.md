@@ -37,6 +37,8 @@ For this project, we focused on:
 
 Further, the company's Budget for the years 2023-2024 is provided in the excel file `Fact_Budget_1`.
 
+All required datasets are available in the `/Cleaned_Datasets` folder of this repository.
+
 This dataset is ideal for building **data modeling, SQL querying, and Power BI dashboarding skills** that reflect actual business intelligence use cases.
 
 ___
