@@ -21,6 +21,22 @@ The goal is to empower **Sales Managers and Sales Representatives** to:
 
 ---
 
+## About the Dataset – AdventureWorksDW2019
+
+The AdventureWorksDW2019 database is a **sample enterprise-level data warehouse** provided by Microsoft. It mimics a real-world global manufacturing company’s operations, including **product sales, customer behavior, and budget data.**
+
+For this project, we focused on:
+-`Fact_Internet_Sales`: contains actual sales transactions over time
+-`Dim_Product`: product-level details (category, subcategory, color, size)
+-`Dim_Customer`: customer demographics and geography
+-`Dim_Calendar`: time dimension used for sales and budgeting analysis
+
+Further, the company's Budget for the years 2023-2024 is provided in the excel file `Fact_Budget_1`.
+
+This dataset is ideal for building **data modeling, SQL querying, and Power BI dashboarding skills** that reflect actual business intelligence use cases.
+
+___
+
 ##  Business Problem
 
 AdventureWorks’ sales team previously relied on static reports, limiting their ability to take timely decisions. There was:
