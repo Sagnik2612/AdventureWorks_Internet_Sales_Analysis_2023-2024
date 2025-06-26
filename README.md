@@ -16,7 +16,8 @@ The goal is to empower **Sales Managers and Sales Representatives** to:
 
 **Data Source**:
 -**AdventureWorksDW2019** repository
--**Link:** <a href="https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak">AdventureWorks19 Link</a>
+
+-**Link:** <a href="https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak">AdventureWorks19 Download Link</a>
 
 ---
 
