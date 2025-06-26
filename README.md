@@ -93,9 +93,9 @@ ___
 - **Clone the repo** to your machine:
  `git clone https://github.com/your-username/AdventureWorks-Sales-Dashboard.git`
 - **Open Power BI (.pbix) file:**
-  Navigate to /PowerBI Reports/ and open AdventureWorks_Sales_2023_2024.pbix.
+  Navigate to `/PowerBI Reports/` and open `AdventureWorks_Sales_2023_2024.pbix`.
 - **Review SQL Scripts:**
-  Use SQL Server to run scripts from /SQL Queries/.
+  Use SQL Server to run scripts from `/SQL Queries/`.
 -**Use the Budget Excel File:**
   Use the 2023 & 2024 budget Excel provided by stakeholders.
 
