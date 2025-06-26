@@ -41,6 +41,19 @@ ___
 
 ___
 
+##  Dashboard 1: **Sales Overview Dashboard**
+
+- Total Sales: **$16.35M** vs Budget: **$15.30M**  in 2024
+- Overall performance exceeds budget by **$1.05M** in 2024
+- **93.93% of revenue** comes from Bikes, revealing the core product
+- Sales trend steadily **rises across the year 2024 but drops for 2023**, with December as the highest sales month in 2024
+- Major customers are based in **North America and Europe**
+
+###  Use Case:
+For **Sales Managers** to get a consolidated real-time overview of all internet sales.
+
+![Sales Overview](./Dashboards/Sales_Overview_image.jpg)
+
 
 
 
