@@ -26,13 +26,14 @@ The goal is to empower **Sales Managers and Sales Representatives** to:
 The AdventureWorksDW2019 database is a **sample enterprise-level data warehouse** provided by Microsoft. It mimics a real-world global manufacturing company’s operations, including **product sales, customer behavior, and budget data.**
 
 For this project, we focused on:
--`Fact_Internet_Sales`: contains actual sales transactions over time
 
--`Dim_Product`: product-level details (category, subcategory, color, size)
+- `Fact_Internet_Sales`: contains actual sales transactions over time
 
--`Dim_Customer`: customer demographics and geography
+- `Dim_Product`: product-level details (category, subcategory, color, size)
 
--`Dim_Calendar`: time dimension used for sales and budgeting analysis
+- `Dim_Customer`: customer demographics and geography
+
+- `Dim_Calendar`: time dimension used for sales and budgeting analysis
 
 Further, the company's Budget for the years 2023-2024 is provided in the excel file `Fact_Budget_1`.
 
@@ -117,7 +118,7 @@ ___
   Navigate to `/PowerBI Reports/` and open `AdventureWorks_Sales_2023_2024.pbix`.
 - **Review SQL Scripts:**
   Use SQL Server to run scripts from `/SQL Queries/`.
--**Use the Budget Excel File:**
+- **Use the Budget Excel File:**
   Use the 2023 & 2024 budget Excel provided by stakeholders.
 
 ___
@@ -134,8 +135,8 @@ ___
 
 ## Future Improvements
 
--Automate data refresh with Power BI Gateway
--Add forecasting using DAX or Azure ML integration
+- Automate data refresh with Power BI Gateway
+- Add forecasting using DAX or Azure ML integration
 
 
 ___
