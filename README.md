@@ -1,4 +1,4 @@
-# AdventureWorks_Internet_Sales_Analysis_2023-2024
+# AdventureWorks Internet Sales Analysis 2023-2024
 
 ##  Project Overview
 
