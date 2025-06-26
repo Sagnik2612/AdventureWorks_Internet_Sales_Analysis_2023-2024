@@ -72,8 +72,54 @@ For **Sales Representatives** to target **high-value clients** and strategize fo
 
 ___
 
+##  Dashboard 3: **Product Details Dashboard**
+
+###  Key Insights:
+
+- Products like **Mountain-200 Black** and **Silver** dominate sales
+- **Seasonality** observed in purchases—peak around mid and end-year in 2024
+- Helps identify top-performing SKUs (Stock Keeping Units) for future inventory and promotion planning
+- Highlights demand by **size, color**, and **product variant**
+
+###  Use Case:
+For **Sales Representatives** to focus on **best-selling items** and plan stock.
+
+![Product Details](./Dashboards/Product_Details_image.jpg)
+
+___
+
+## Exploring the Repository
+
+- **Clone the repo** to your machine:
+ `git clone https://github.com/your-username/AdventureWorks-Sales-Dashboard.git`
+- **Open Power BI (.pbix) file:**
+  Navigate to /PowerBI Reports/ and open AdventureWorks_Sales_2023_2024.pbix.
+- **Review SQL Scripts:**
+  Use SQL Server to run scripts from /SQL Queries/.
+-**Use the Budget Excel File:**
+  Use the 2023 & 2024 budget Excel provided by stakeholders.
+
+___
+
+## Stakeholders & Value Delivered
+
+| Role          | Dashboard View             | Value Gained                                    |
+| ------------- | -------------------------- | ----------------------------------------------- |
+| Sales Manager | Sales Overview             | Budget monitoring, KPI tracking                 |
+| Sales Rep     | Customer & Product Details | Sales targeting, high-performing SKUs & clients |
 
 
+___
 
+## Future Improvements
 
+-Automate data refresh with Power BI Gateway
+-Add forecasting using DAX or Azure ML integration
 
+___
+
+## Conclusion
+
+This project transforms basic reporting into a **data-driven decision tool**. It empowers the sales team to **optimize performance, improve follow-ups, and align operations with budget goals**. With real-time dashboards and powerful filtering, AdventureWorks now has a **strategic edge** in managing sales effectively.
+
+___
