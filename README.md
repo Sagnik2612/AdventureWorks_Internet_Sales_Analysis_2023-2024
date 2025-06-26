@@ -54,7 +54,23 @@ For **Sales Managers** to get a consolidated real-time overview of all internet 
 
 ![Sales Overview](./Dashboards/Sales_Overview_image.jpg)
 
+___
 
+##  Dashboard 2: **Customer Details Dashboard**
+
+###  Key Insights:
+
+- Top customers include **Jordan Turner, Maurice Shan**, and **Janet Munoz**
+- Monthly breakdown helps identify **purchase patterns** and **low-engagement months**
+- Enables segmentation of customers by **city, category, and products**
+- Used heatmaps to show **customer-wise sales intensity** month-by-month
+
+###  Use Case:
+For **Sales Representatives** to target **high-value clients** and strategize follow-ups.
+
+![Customer Details](./Dashboards/Customer_Details_image.jpg)
+
+___
 
 
 
