@@ -14,8 +14,9 @@ The goal is to empower **Sales Managers and Sales Representatives** to:
 - **Power BI** for visual analytics  
 - **SQL (Microsoft SQL Server)** for data querying  
 
-**Data Source**
-**AdventureWorksDW2019** repository
+**Data Source**:
+-**AdventureWorksDW2019** repository
+-**Link:** <a href="https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak">AdventureWorks19 Link</a>
 
 ---
 
@@ -115,6 +116,7 @@ ___
 
 -Automate data refresh with Power BI Gateway
 -Add forecasting using DAX or Azure ML integration
+
 
 ___
 
