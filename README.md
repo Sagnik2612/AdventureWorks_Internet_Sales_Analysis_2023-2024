@@ -27,8 +27,11 @@ The AdventureWorksDW2019 database is a **sample enterprise-level data warehouse*
 
 For this project, we focused on:
 -`Fact_Internet_Sales`: contains actual sales transactions over time
+
 -`Dim_Product`: product-level details (category, subcategory, color, size)
+
 -`Dim_Customer`: customer demographics and geography
+
 -`Dim_Calendar`: time dimension used for sales and budgeting analysis
 
 Further, the company's Budget for the years 2023-2024 is provided in the excel file `Fact_Budget_1`.
